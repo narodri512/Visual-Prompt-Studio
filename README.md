@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-Prompt portfolio for arts 1301
+Naomi Rodriguez
+Art appreciation
+Prompt portfolio for Arts 1301
