@@ -1,1 +1,4 @@
 second phase
+Prompt A: Create a drawing that uses silverpoint and graphite to emphasize the outlines and value of the motion of a dog running playfully in an open cattle field. The silverpoint should express the slight motion in the surrounding grass, while the accents of the graphite are used to give depth and personality to the running dog. Ensure that there is clear cross-hatching for shadows as needed, and keep the drawing free of harsh lines. 
+Prompt B: Create an intaglio print emphasizing the outlines and value of the motion of a dog running playfully in an open cattle field. The intaglio should express the simplicity of the image while keeping the values of personality to the running dog. Ensure that there is clear lining for shadows as needed.
+Edit: File was deleted. Recreated on 9/25
